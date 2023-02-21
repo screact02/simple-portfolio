@@ -1,5 +1,5 @@
 # Simple Personal Portfolio
-#### _This is very simple personal portfolio created using pure HTML and CSS_
+#### _This is a very simple personal portfolio created using pure HTML and CSS_
 
 ##### View the website [here](https://screact02.github.io/simple-portfolio/)
 
